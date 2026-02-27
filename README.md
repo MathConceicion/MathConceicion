@@ -25,6 +25,3 @@ Oie! Me chamo Matheus Eduardo De La Conceicion, tenho 17 anos e sou natural de S
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo"  />
 </div>
-
-<br/>
-<br/>
