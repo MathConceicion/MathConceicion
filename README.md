@@ -5,9 +5,17 @@
 Oie! Me chamo Matheus Eduardo De La Conceicion, tenho 17 anos e sou natural de São Paulo. Estou no último ano do ensino médio da escola SESI, também realizando o curso técnico do senai de Desenvolvimento de Sistemas. Sou apaixonado por técnologia desde pequeno e planejo ajudar muitas pessoas com meus projetos futuros!
 
 <div align="start">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="mailto:matheusdelaconceicion@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
+  <a href="https://discord.gg/645666775647911936">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+
+  <a href="https://www.instagram.com/theuconceicion?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
+  </a>
 </div>
 
 ---
