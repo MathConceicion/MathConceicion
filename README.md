@@ -2,6 +2,12 @@
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
+<div align="start">[EN-US]</div>
+What's Up! My name is Matheus Eduardo De La Conceicion, I’m 17 years old and I’m from São Paulo. I’m in my final year of high school at SESI, and I’m also taking a technical course in Systems Development at SENAI. I’ve been passionate about technology since I was a child, and I plan to help many people with my future projects!
+
+<br><br>
+
+<div align="start">[PT-BR]</div>
 Oie! Me chamo Matheus Eduardo De La Conceicion, tenho 17 anos e sou natural de São Paulo. Estou no último ano do ensino médio da escola SESI, também realizando o curso técnico do senai de Desenvolvimento de Sistemas. Sou apaixonado por técnologia desde pequeno e planejo ajudar muitas pessoas com meus projetos futuros!
 
 <div align="start">
