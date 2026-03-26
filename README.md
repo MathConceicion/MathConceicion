@@ -1,16 +1,28 @@
+<div align="center">
+  
 # 👨‍💻 Matheus Conceicion
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
-<div align="start">[EN-US]</div>
+<div>[EN-US]</div>
 What's Up! My name is Matheus Eduardo De La Conceicion, I’m 17 years old and I’m from São Paulo. I’m in my final year of high school at SESI, and I’m also taking a technical course in Systems Development at SENAI. I’ve been passionate about technology since I was a child, and I plan to help many people with my future projects!
 
 <br><br>
 
-<div align="start">[PT-BR]</div>
+<div>[PT-BR]</div>
 Oie! Me chamo Matheus Eduardo De La Conceicion, tenho 17 anos e sou natural de São Paulo. Estou no último ano do ensino médio da escola SESI, também realizando o curso técnico do senai de Desenvolvimento de Sistemas. Sou apaixonado por técnologia desde pequeno e planejo ajudar muitas pessoas com meus projetos futuros!
 
-<div align="start">
+<br><br>
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/MathConceicion?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/MathConceicion)
+[![GitHub User's stars](https://img.shields.io/github/stars/MathConceicion?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/MathConceicion)
+[![Profile Views](https://komarev.com/ghpvc/?username=MathConceicion&style=for-the-badge&color=blueviolet)](https://github.com/MathConceicion)
+
+</div>
+
+<div align="center">
   <a href="mailto:matheusdelaconceicion@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
@@ -28,18 +40,14 @@ Oie! Me chamo Matheus Eduardo De La Conceicion, tenho 17 anos e sou natural de S
 
 ### 🤖 Linguagens e Tecnologias
 
-<div align="start">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo"  />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cs,react" />
+
 </div>
 
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/MathConceicion/MathConceicion/output/github-contribution-grid-snake-dark.svg)
+
+</div>
