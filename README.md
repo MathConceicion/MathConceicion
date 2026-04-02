@@ -33,8 +33,8 @@ Oie! Me chamo Matheus Eduardo De La Conceicion, tenho 17 anos e sou natural de S
 <a href="mailto:matheusdelaconceicion@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
 </a>
-<a href="https://discord.gg/645666775647911936">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
+<a href="https://www.linkedin.com/in/matheus-de-la-conceicion-3163053b5/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
 </a>
 <a href="https://www.instagram.com/theuconceicion?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
