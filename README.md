@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👨‍💻 Matheus Conceicion
-**`Estudante de Desenvolvimento de Sistemas`**
+**`Student of Systems Development`**
 
 <table>
   <tr>
@@ -42,7 +42,7 @@ Oie! Me chamo Matheus Eduardo De La Conceicion, tenho 17 anos e sou natural de S
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img src="https://skillicons.dev/icons?i=html,css,js,cs,react,git,mysql" />
 
