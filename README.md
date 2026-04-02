@@ -48,6 +48,15 @@ Oie! Me chamo Matheus Eduardo De La Conceicion, tenho 17 anos e sou natural de S
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/MathConceicion/MathConceicion/output/github-contribution-grid-snake-dark.svg)
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://raw.githubusercontent.com/MathConceicion/MathConceicion/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+    </td>
+    <td style="border: none;">
+      <img src="https://i.redd.it/3blvx7vpnjbf1.gif" alt="gif" width="200" />
+    </td>
+  </tr>
+</table>
 
 </div>
