@@ -44,7 +44,7 @@ Oie! Me chamo Matheus Eduardo De La Conceicion, tenho 17 anos e sou natural de S
 
 ### 🤖 Languages ​​and Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,react,git,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,cs,net,github,git,mysql,figma" />
 
 ---
 
